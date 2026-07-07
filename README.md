@@ -30,7 +30,7 @@ software that scales.
 ## 🛠️ Technology
 
 **🖥️ Product & Application Development**
-React · Next.js · Vue · Nuxt.js · TypeScript · JavaScript · Tailwind CSS · Material UI · HTML5 · CSS3 · SCSS
+React · Next.js · Vue · Nuxt.js · TypeScript · JavaScript · Tailwind CSS · Material UI · PHP · HTML5 · CSS3 · SCSS
 
 **⚙️ Backend & API Engineering**
 Node.js · Python · Laravel · Express · Flask · REST APIs · GraphQL
