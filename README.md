@@ -1,4 +1,4 @@
-# 💡 Turning Ideas into Intelligent, Scalable, Human Solutions
+# 💡 Turning Complex Ideas into Intelligent, Scalable Software Solutions
 
 Principal Software Engineer · Full-Stack Architect · AI-Powered Solutions · 12+ years building platforms people depend on.
 
