@@ -1,4 +1,6 @@
-## Principal Software Engineer \| Full-Stack Architect \| AI-Powered Solutions
+# 💡 Turning Ideas into Intelligent, Scalable, Human Solutions
+
+Principal Software Engineer · Full-Stack Architect · AI-Powered Solutions · 12+ years building platforms people depend on.
 
 I build scalable, secure, and high-performance software with over **12
 years of experience** delivering enterprise applications across
