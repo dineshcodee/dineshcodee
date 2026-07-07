@@ -97,9 +97,8 @@ productivity and user experience.
 
 ## 📫 Connect
 
--   💼 LinkedIn: https://www.linkedin.com/
--   🌐 Portfolio: https://your-portfolio.com
--   📧 Email: your-email@example.com
+-   💼 LinkedIn: https://www.linkedin.com/in/dinesh-saxena/
+-   📧 Email: dinesh.codee@gmail.com
 
 ------------------------------------------------------------------------
 
