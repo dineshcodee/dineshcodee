@@ -27,78 +27,35 @@ software that scales.
 
 ------------------------------------------------------------------------
 
-## 🛠 Tech Stack
+## 🛠️ Technology
 
-### Backend
+**🖥️ Product & Application Development**
+React · Next.js · Vue · Nuxt.js · TypeScript · JavaScript · Tailwind CSS · Material UI · HTML5 · CSS3 · SCSS
 
--   PHP
--   Laravel
--   Symfony
--   Node.js
--   Phyton
--   CodeIgniter
--   WordPress
+**⚙️ Backend & API Engineering**
+Node.js · Python · Laravel · Express · Flask · REST APIs · GraphQL
 
-### Frontend
+**🤖 AI & Agentic Systems**
+Google Gemini · Application-embedded LLMs
 
--   JavaScript (ES6+)
--   React / Next
--   Vue / Nuxt
--   jQuery
--   HTML5
--   CSS3
--   Bootstrap
--   Tailwind CSS
+**🗄️ Data & Schema Engineering**
+MySQL · MongoDB · SQLite · Redis · Schema-driven API design
 
-### Databases
+**🔐 Authentication & Security**
+OAuth 2.0 · JWT · RBAC · AES encryption · CSRF protection · Audit-safe architectures · Government-grade security standards
 
--   MySQL
--   MongoDB
--   MariaDB
+**☁️ Cloud & Infrastructure**
+AWS (EC2 · Lambda · S3 · Elastic Beanstalk · SES) · Microsoft Azure (Application Insights) · Google Cloud (App Engine · Cloud SQL · Cloud Storage · Secret Manager) · Docker · Nginx · CI/CD · GitHub Actions
 
-### APIs & Integrations
+**📊 System Reliability & Quality**
+Code review practices · Git-based workflows · Production monitoring · Sentry · Azure Application Insights · Reliability-first engineering
 
--   REST APIs
--   GraphQL
--   Payment Gateways
--   Mailchimp
--   Twilio
--   Google APIs
--   Third-party SaaS Integrations
-
-### Cloud & DevOps
-
--   AWS
--   Docker
--   Git
--   GitHub Actions
--   Linux
--   Apache
--   Nginx
-
-### AI & Automation
-
--   OpenAI
--   Claude
--   GitHub Copilot
--   Prompt Engineering
--   LLM Integrations
--   AI Workflow Automation
-
-### Engineering
-
--   Software Architecture
--   System Design
--   Design Patterns
--   SOLID Principles
--   Clean Code
--   Performance Optimization
--   CI/CD
--   Agile Development
+**🎨 Design & Product Craft**
+UX journeys · Wireframing & prototyping · Adobe XD
 
 ------------------------------------------------------------------------
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
 ### 🛡 Enterprise Insurance Platform
 
