@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Dinesh
-
 ## Principal Software Engineer \| Full-Stack Architect \| AI-Powered Solutions
 
 I build scalable, secure, and high-performance software with over **12
