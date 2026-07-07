@@ -31,14 +31,17 @@ software that scales.
 
 -   PHP
 -   Laravel
--   WordPress
+-   Symfony
+-   Node.js
+-   Phyton
 -   CodeIgniter
--   Node.js (Basic)
+-   WordPress
 
 ### Frontend
 
 -   JavaScript (ES6+)
--   React
+-   React / Next
+-   Vue / Nuxt
 -   jQuery
 -   HTML5
 -   CSS3
