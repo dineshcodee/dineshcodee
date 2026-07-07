@@ -1,77 +1,147 @@
-# 💡 Turning Ideas into Intelligent, Scalable, Human Solutions
+# 👋 Hi, I'm Dinesh
 
-Senior Manager at KPMG UK · Legal & Education Technology · 15+ years building platforms people depend on.
+## Principal Software Engineer \| Full-Stack Architect \| AI-Powered Solutions
 
-I don't just write code — I architect systems that hold under pressure, adapt to change, and keep working long after the moment they were built for has passed. From keeping six campuses operational across six countries during a global pandemic, to reimagining enterprise legal platforms at KPMG, the thread has always been the same: build things that matter, and build them properly.
+I build scalable, secure, and high-performance software with over **12
+years of experience** delivering enterprise applications across
+insurance, e-commerce, education, healthcare, recruitment, and business
+automation.
 
-## 🏢 Currently
+My expertise spans **Laravel, PHP, WordPress, REST APIs, GraphQL, MySQL,
+MongoDB, AWS, Docker, and Generative AI**. I enjoy designing clean
+architectures, solving complex engineering problems, and building
+software that scales.
 
-**Senior Manager, Legal Technology — KPMG UK** · February 2023 – Present
+------------------------------------------------------------------------
 
-Leading the transformation of an international business organisation platform into a fully configurable, multi-client product built on HighQ, TypeScript, and React. Driving AI integration and automation across the legal technology stack. Running client engagements from discovery through delivery, and maintaining the engineering standards that keep a growing team shipping with confidence.
+## 🚀 About Me
 
-## 🛠️ Technology
+-   💼 Principal Software Engineer with 12+ years of industry experience
+-   🏗️ Architecting enterprise-grade web applications
+-   🤖 Building AI-powered business solutions and LLM integrations
+-   ⚡ Passionate about performance optimization and scalable system
+    design
+-   🌱 Continuously learning modern cloud and AI technologies
+-   🤝 Open to collaborating on innovative products and open-source
+    projects
 
-**🖥️ Product & Application Development**
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Vue.js · HTML5 · CSS3 · SCSS
+------------------------------------------------------------------------
 
-**⚙️ Backend & API Engineering**
-Node.js · Python · Django · Express · Flask · REST APIs · tRPC · GraphQL
+## 🛠 Tech Stack
 
-**🤖 AI & Agentic Systems**
-Google Gemini · Application-embedded LLMs · AI agent design · Tool-calling workflows · Agentic pipelines · Automated content & data pipelines · Pydantic schema validation · Celery-based async orchestration
+### Backend
 
-**🗄️ Data & Schema Engineering**
-PostgreSQL · MySQL · MongoDB · SQLite · Prisma · Redis · Pandas · NumPy · Schema-driven API design
+-   PHP
+-   Laravel
+-   WordPress
+-   CodeIgniter
+-   Node.js (Basic)
 
-**🔐 Authentication & Security**
-OAuth 2.0 · JWT · Iron Session · RBAC · AES encryption · CSRF protection · Audit-safe architectures · Government-grade security standards
+### Frontend
 
-**☁️ Cloud & Infrastructure**
-AWS (EC2 · Lambda · S3 · Elastic Beanstalk · SES) · Microsoft Azure (Application Insights) · Google Cloud (App Engine · Cloud SQL · Cloud Storage · Secret Manager) · Docker · Nginx · Gunicorn · CI/CD · GitHub Actions
+-   JavaScript (ES6+)
+-   React
+-   jQuery
+-   HTML5
+-   CSS3
+-   Bootstrap
+-   Tailwind CSS
 
-**📊 System Reliability & Quality**
-Code review practices · Git-based workflows · Production monitoring · Sentry · Azure Application Insights · Reliability-first engineering
+### Databases
 
-**🎨 Design & Product Craft**
-UX journeys · Wireframing & prototyping · Adobe XD · Adobe Creative Suite
+-   MySQL
+-   MongoDB
+-   MariaDB
 
-## 🌟 Featured Projects
+### APIs & Integrations
 
-**🧠 Genesis Engine**
-An autonomous content engine that turns raw signals into publication-ready stories — continuously, without waiting to be told.
+-   REST APIs
+-   GraphQL
+-   Payment Gateways
+-   Mailchimp
+-   Twilio
+-   Google APIs
+-   Third-party SaaS Integrations
 
-**⚖️ Global Legal Services Data Platform**
-An enterprise legal platform built to hold the full weight of cross-border M&A — so the people navigating it could focus on judgment, not administration.
+### Cloud & DevOps
 
-**🎓 London School of Commerce Group of Colleges Application**
-A bespoke admissions platform that replaced the chaos of disconnected tools with one clear, end-to-end view of every person walking through the door.
+-   AWS
+-   Docker
+-   Git
+-   GitHub Actions
+-   Linux
+-   Apache
+-   Nginx
 
-**📚 The Education Group Admissions System**
-A purpose-built admissions platform that made the first step into higher education feel as considered and human as everything that follows.
+### AI & Automation
 
-**🇮🇳 Indian Development Foundation of Overseas Indians Web Portal**
-A government-grade platform that gave millions of overseas Indians a trusted, transparent way to invest in the country they never stopped caring about.
+-   OpenAI
+-   Claude
+-   GitHub Copilot
+-   Prompt Engineering
+-   LLM Integrations
+-   AI Workflow Automation
 
-**✈️ USA Airports Limo Service**
-A single platform that powers multiple businesses simultaneously — each fully branded, each built to be found, each running without friction in the background.
+### Engineering
 
-## 💼 Experience
+-   Software Architecture
+-   System Design
+-   Design Patterns
+-   SOLID Principles
+-   Clean Code
+-   Performance Optimization
+-   CI/CD
+-   Agile Development
 
-**KPMG UK — Senior Manager, Legal Technology** · Feb 2023 – Present
+------------------------------------------------------------------------
 
-**London School of Commerce — Full Stack Developer, Education Technology** · Jul 2013 – Feb 2023
+## 🌟 Featured Work
 
-**Freelance — Designer and Developer** · May 2011 – Present
+### 🛡 Enterprise Insurance Platform
 
-**Torus Labs — Contract Front End Designer** · Apr 2019 – Jul 2019
+Developed scalable insurance applications supporting policy management,
+endorsements, premium calculations, and workflow automation.
 
-**Study Smart Overseas Education — Web Developer** · Oct 2014 – Nov 2016
+### 🛒 Enterprise E-commerce Solutions
 
-## 🧵 A Longer Thread
+Built custom e-commerce platforms with ERP, payment gateway, and
+third-party integrations.
 
-Twenty-one competition wins. A hundred clients. A pandemic survived in production. A promotion at one of the world's most respected firms within twelve months of joining.
+### 🎓 Education Platforms
 
-None of it happened by accident.
+Designed admission and student management systems serving educational
+institutions.
 
-Every chapter has been preparation — for work that scales further, means more, and leaves systems behind that people can actually stand on. The most important chapter is still ahead.
+### 💼 Business Automation
+
+Delivered CRM, HRMS, recruitment, healthcare, matrimonial, and service
+marketplace platforms.
+
+### 🤖 AI-Powered Solutions
+
+Integrating Generative AI into business workflows to improve
+productivity and user experience.
+
+------------------------------------------------------------------------
+
+## 🎯 Current Focus
+
+-   Generative AI Applications
+-   AI Agents & Automation
+-   Scalable Backend Architecture
+-   Cloud-Native Development
+-   Enterprise Software Engineering
+-   Performance Engineering
+
+------------------------------------------------------------------------
+
+## 📫 Connect
+
+-   💼 LinkedIn: https://www.linkedin.com/
+-   🌐 Portfolio: https://your-portfolio.com
+-   📧 Email: your-email@example.com
+
+------------------------------------------------------------------------
+
+> *"Building software that is scalable, maintainable, and delivers
+> measurable business value."*
