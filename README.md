@@ -5,7 +5,7 @@ years of experience** delivering enterprise applications across
 insurance, e-commerce, education, healthcare, recruitment, and business
 automation.
 
-My expertise spans **Laravel, PHP, WordPress, REST APIs, GraphQL, MySQL,
+My expertise spans **Laravel, PHP, WordPress, REST APIs, React, Vue, Next JS, Nuxt JS, Node, GraphQL, MySQL,
 MongoDB, AWS, Docker, and Generative AI**. I enjoy designing clean
 architectures, solving complex engineering problems, and building
 software that scales.
